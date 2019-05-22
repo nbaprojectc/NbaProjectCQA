@@ -1,15 +1,15 @@
 {
-  "main.css": "/NbaProjectCQA/static/css/main.b6566ba3.chunk.css",
-  "main.js": "/NbaProjectCQA/static/js/main.9a0efc81.chunk.js",
-  "main.js.map": "/NbaProjectCQA/static/js/main.9a0efc81.chunk.js.map",
+  "main.css": "/NbaProjectCQA/static/css/main.18b592e3.chunk.css",
+  "main.js": "/NbaProjectCQA/static/js/main.c336acdd.chunk.js",
+  "main.js.map": "/NbaProjectCQA/static/js/main.c336acdd.chunk.js.map",
   "runtime~main.js": "/NbaProjectCQA/static/js/runtime~main.1003313a.js",
   "runtime~main.js.map": "/NbaProjectCQA/static/js/runtime~main.1003313a.js.map",
-  "static/css/2.d635e2d9.chunk.css": "/NbaProjectCQA/static/css/2.d635e2d9.chunk.css",
+  "static/css/2.f869753d.chunk.css": "/NbaProjectCQA/static/css/2.f869753d.chunk.css",
   "static/js/2.25f1f484.chunk.js": "/NbaProjectCQA/static/js/2.25f1f484.chunk.js",
   "static/js/2.25f1f484.chunk.js.map": "/NbaProjectCQA/static/js/2.25f1f484.chunk.js.map",
   "index.html": "/NbaProjectCQA/index.html",
-  "precache-manifest.533877ab046821f97ed0c2705c85c4a9.js": "/NbaProjectCQA/precache-manifest.533877ab046821f97ed0c2705c85c4a9.js",
+  "precache-manifest.a29a7fa2ae1226a86ed7dcf0594f3f61.js": "/NbaProjectCQA/precache-manifest.a29a7fa2ae1226a86ed7dcf0594f3f61.js",
   "service-worker.js": "/NbaProjectCQA/service-worker.js",
-  "static/css/2.d635e2d9.chunk.css.map": "/NbaProjectCQA/static/css/2.d635e2d9.chunk.css.map",
-  "static/css/main.b6566ba3.chunk.css.map": "/NbaProjectCQA/static/css/main.b6566ba3.chunk.css.map"
+  "static/css/2.f869753d.chunk.css.map": "/NbaProjectCQA/static/css/2.f869753d.chunk.css.map",
+  "static/css/main.18b592e3.chunk.css.map": "/NbaProjectCQA/static/css/main.18b592e3.chunk.css.map"
 }
